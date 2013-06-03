@@ -42,7 +42,7 @@
 
     cookie = {
         set : function (name, value, days, time) {
-            var expires = util.getExpires(days, time);
+            var expires = util.getExpires(days, time || "");
 
             document.cookie = name + "=" + value + expires + "; path=/";
 
