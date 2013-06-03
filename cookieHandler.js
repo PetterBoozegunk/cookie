@@ -1,3 +1,4 @@
+/*jslint browser: true */
 (function (window) {
     "use strict";
 
