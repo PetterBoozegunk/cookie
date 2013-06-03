@@ -5,7 +5,7 @@ A simple cookie handler
 
 cookieHandler.js has three (3) methods: get, set and remove.
 
-get and remove obly takes one (string) argument: The name of the cookie to get or remove.
+get and remove only takes one (string) argument: The name of the cookie to get or remove.
 
 set takes four (4) arguments:
 <dl>
